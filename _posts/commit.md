@@ -1,0 +1,5 @@
+---
+Style: Slide
+Title: Commit
+---
+Ändereung oder Features welches man vorschlägt. Dies geschieht nur im Branch zu welchem man es geschickt hat.  
